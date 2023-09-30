@@ -93,4 +93,4 @@ target/
 # Hydra logs
 outputs
 
-wandb
+wandb/
